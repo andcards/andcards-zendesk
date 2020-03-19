@@ -1,0 +1,11 @@
+{
+  "name": "andcards",
+  "author": {
+    "name": "andcards",
+    "email": "support@andcards.com",
+    "url": "https://andcards.com"
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false
+}
