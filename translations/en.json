@@ -2,7 +2,7 @@
   "app": {
     "name": "andcards",
     "short_description": "Customer support for a coworking space",
-    "long_description": "Trusted by coworking spaces around the world, andcards is a member-first coworking space software. andcards’ solutions for coworking space, such as meeting room booking, benefit catalog, customer communication, enable you to organize and offer your coworking space services to members wherever they are. If you don’t already have coworking software, sign up at [andcards Website](https://andcards.com).\n\nNow it's easier to support coworking space members with Zendesk. Once the integration is enabled, residents can report issues and start chats from within your coworking space app.",
-    "installation_instructions": "To start using andcards with Zendesk, you need to first have an andcards account. You can set up your Zendesk integration by following the [steps mentioned in this guide](https://help.andcards.com/en/articles/3750371-set-up-zendesk-on-andcards)."
+    "long_description": "Trusted by coworking spaces around the world, andcards is a member-first coworking space software. andcards' solutions for coworking spaces and flex offices, such as native branded apps, booking system, benefit catalog, Stream community feed, and customer support integrations help members get the most out of their workspace. If you don't already have coworking software, sign up at [andcards Website](https://www.andcards.com).\n\nNow it's easier to support coworking space members with Zendesk. Once the integration is enabled, residents can report issues and start chats from within your coworking space app.",
+    "installation_instructions": "To start using andcards with Zendesk, you need to first have an andcards account. You can set up your Zendesk integration by following the [steps mentioned in this guide](https://help.andcards.com/article/26-chat-with-members-via-zendesk-support)."
   }
 }
